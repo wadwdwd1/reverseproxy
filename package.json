@@ -1,0 +1,26 @@
+{
+  "name": "eaglercraft-proxy",
+  "version": "1.0.0",
+  "description": "HTTP Reverse Proxy for Eaglercraft server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "http-proxy-middleware": "^2.0.4"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/eaglercraft-proxy.git"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/your-username/eaglercraft-proxy/issues"
+  },
+  "homepage": "https://github.com/your-username/eaglercraft-proxy#readme"
+}
