@@ -1,7 +1,7 @@
 {
-  "name": "eaglercraft-proxy",
+  "name": "reverse-proxy",
   "version": "1.0.0",
-  "description": "HTTP Reverse Proxy for Eaglercraft server",
+  "description": "hehe- reverse proxy",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
