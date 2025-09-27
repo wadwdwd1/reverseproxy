@@ -13,14 +13,3 @@
   "engines": {
     "node": ">=14.0.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/your-username/eaglercraft-proxy.git"
-  },
-  "author": "Your Name",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/your-username/eaglercraft-proxy/issues"
-  },
-  "homepage": "https://github.com/your-username/eaglercraft-proxy#readme"
-}
