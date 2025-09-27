@@ -1,13 +1,10 @@
-// server.js
 const express = require('express');
 const { createProxyMiddleware } = require('http-proxy-middleware');
 
 const app = express();
 
-// Target Eaglercraft server
-const targetServer = 'http://france.elementiamc.xyz:2142';
+const targetServer = '0.0.0.0';
 
-// Setup the reverse proxy
 app.use('/', createProxyMiddleware({
   target: targetServer,
   changeOrigin: true,
